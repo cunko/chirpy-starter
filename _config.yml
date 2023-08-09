@@ -20,7 +20,7 @@ timezone:
 
 title: liuliuya # the main title
 
-tagline: 他们唱着义愤的歌，心随着战鼓跳动，他们投入奔向自由的圣战 # it will display as the sub-title
+tagline: 他们唱着义愤的歌，心随着战鼓跳动，他们投入奔向自由的圣战... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
